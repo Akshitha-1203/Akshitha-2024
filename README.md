@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshitha-2024
+- 👋 Hi, I’m @Akshitha
 - 👀 I’m interested in creating new codes
 - 🌱 I’m currently learning python, Azure etc
 - 💞️ I’m looking to collaborate on anything futuristic
